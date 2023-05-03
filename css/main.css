@@ -1,0 +1,21 @@
+.profile {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.name {
+  font-size: 30px;
+  font-family: "nanumgodic";
+  font-weight: 900;
+  color: rebeccapurple;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+.describe {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
